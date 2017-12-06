@@ -19,8 +19,7 @@ li:nth-child(2) {
   background:pink
 }
 
-@media(max-width:375px) {    
-  /* media types: iphone 6 */
+@media screen and (max-width:375px) {    
   img {
     width:500px;
     height:200px;
