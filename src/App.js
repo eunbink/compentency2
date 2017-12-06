@@ -45,3 +45,9 @@ export default function App() {
 // )
 // 
 //  data types affects overall performance as the database especiall in time and space savings.
+// datatypes checks to make sure the type of the variable is the same type you are expecting so it helps to debug and preventing from errors.
+
+
+//doctypes can change how a browser reads a file
+//<!DOCTYPE html> is used in html5 and theres alot of doctypes that you can add after !DOCTYPE and based on the doctype, they could restrict you from using some elements, or does not allow framesets. and it
+//specifies the rules for the markup language, so that the browsers render the content correctly. 
